@@ -1,24 +1,10 @@
-# vue_pug_stylus
+<img src="./src/assets/logo.png">
+# Playing Around with Vue3 & Pug!
 
-## Project setup
-```
-npm install
-```
+Nothing really to see here. Just playing around with the Pug Pre-Proccessor. Installing pug is very simple, just:
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+npm install pug pug-plain-loader
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+No longer needs Webpack Configuration, just plug and play!
